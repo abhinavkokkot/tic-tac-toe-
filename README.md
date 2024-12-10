@@ -2,6 +2,12 @@
 
 tic tac toe
 
+![Screenshot 2024-12-10 133206](https://github.com/user-attachments/assets/0f34a06e-d2b5-4fde-a89f-3686b3f277e8)
+
+
+![Screenshot 2024-12-10 133309](https://github.com/user-attachments/assets/1414a8ff-9fc3-4e50-8002-e95eabfafb62)
+
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
